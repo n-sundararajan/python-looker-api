@@ -1,6 +1,6 @@
 # swagger_client.ScheduledPlanApi
 
-All URIs are relative to *https://cilappxd0093.sys.cigna.com:19999/api/3.0*
+All URIs are relative to *https://xxxxxx.xxx.xxxxx.xxxxx:19999/api/3.0*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------

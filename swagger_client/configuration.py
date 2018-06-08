@@ -47,7 +47,7 @@ class Configuration(six.with_metaclass(TypeWithDefault, object)):
     def __init__(self):
         """Constructor"""
         # Default Base url
-        self.host = "https://cilappxd0093.sys.cigna.com:19999/api/3.0"
+        self.host = "https://xxxxxx.xxx.xxxxx.xxxxx:19999/api/3.0"
         # Temp file folder for downloading files
         self.temp_folder_path = None
 
